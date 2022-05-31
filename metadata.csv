@@ -1,0 +1,251 @@
+file_name,normalized_transcription
+train1,"Hola, mi nombre es Jose Fernando Mendez, y estoy aca para presentar un ejemplo"
+train2,Hoy el bitcoin estara un poco mas caro que ayer
+train3,Sera que el precio del tomate estara mas caro el dia de mañana
+train4,"Hoy celebramos nuestro segundo aniversario juntos, me siento muy feliz de compartir mi vida contigo"
+train5,"Echo de menos tus labios, sentirlos junto a los mios y uno al otro saborearnos"
+train6,Feliz 2013 y que sea un año lleno de grandes momentos y de mucha felicidad
+train7,Que el 2012 este lleno de felicidad y que sea un año maravilloso para ti
+train8,"Venga, ¡animate!, que veras que pronto se pasa la tristeza, solo es cuestion de tiempo"
+train9,"animo, y que no se diga, que de cosas peores has salido, ponte bien pronto"
+train10,"Vaya, te casas, dicen que se te acaba lo bueno, pero porque llega algo mejor"
+train11,"Que seais muy felices y que la boda sea perfecta, mucha suerte para los dos"
+train12,"Dicen que los amigos son para las ocasiones, pues tu siempre estas en todas. Gracias"
+train13,"Hemos pasado mucho juntas, un abrazo muy grande y mil besos para mi mejor amiga"
+train14,"Pablo, me viene perfecto quedar el viernes a las 10 para revisar los informes mensuales, cuenta con mi presencia"
+train15,"Hola Paqui, mañana celebras tu Primera Comunion, ¿como van esos nervios?, tu estate tranquila que veras como lo disfrutas mucho"
+train16,"Hoy se celebra nuestros primeros 12 meses juntos, vamos a celebrar este primer año y que haya muchos mas años"
+train17,"Dentro de nada vuelve el invierno, tardes de frio, lluvia y nieve, lo pasaremos al abrigo de un buen fuego"
+train18,"Cada dia aparecen nuevas esperanzas, asi que no te preocupes, veras como todos los problemas se solucionan con el tiempo"
+train19,"Ya hace 2 años desde que te encontramos y desde entonces todo han sido alegrias, que suerte que dimos contigo"
+train20,"Que gran perro eres, si, tu tamaño es pequeño, pero siempre estas alegrando nuestros dias y jugando con nuestros hijos"
+train21,"Buenas noches mi querida Rosa, que tus sueños sean agradables y que el despertar no se haga muy cuesta arriba"
+train22,"Que la tranquilidad envuelva tus sueños y que tengas una buena noche, mañana cuando despiertes te espera un gran dia"
+train23,"Buenas noches Maria, sueña conmigo, que no quiero pasar ni un segundo sin ti, ni despierto ni durmiendo. Mil besos"
+train24,"Hoy el precio del tomate esta a 1545 colones, pero mañana puede que este a 1600 colones"
+train25,"Hoy el precio del aguacate esta a unos 5 dolares, pero mañana puede que este a 6 dolares"
+train26,"La casa del vecino tiene un pecio muy alto, creo que 56,802,514 colones"
+train27,"El carro de la casa tiene un valor de 2525468, pero mi hermano lo esta dejando para unos 2500000"
+train28,0 1 2 3 4 5 6 7 8 9
+train29,La masa corporal de este paciente esta a unos 15 porcierto de densidad y unos 15 cm de abdomen
+train30,"Beber vino en estos dias es muy gratificante, mas cuando es una cena muy especial"
+train31,"La calidad del vino va a depender mucho de su consistencia, como el acido, azucar"
+train32,"La hepatitis esta cada vez peor, muchos casos se han presentado ultimamente"
+train33,"Hemos pasado mucho juntas, un abrazo muy grande y mil besos para mi mejor amiga"
+train34,"Dicen que los amigos son para las ocasiones, pues tu siempre estas en todas. Gracias"
+train35,"Que seais muy felices y que la boda sea perfecta, mucha suerte para los dos"
+train36,"Vaya, te casas, dicen que se te acaba lo bueno, pero porque llega algo mejor"
+train37,"animo, y que no se diga, que de cosas peores has salido, ponte bien pronto"
+train38,"Venga, ¡animate!, que veras que pronto se pasa la tristeza, solo es cuestion de tiempo"
+train39,Que el 2012 este lleno de felicidad y que sea un año maravilloso para ti
+train40,Feliz 2013 y que sea un año lleno de grandes momentos y de mucha felicidad
+train41,"Echo de menos tus labios, sentirlos junto a los mios y uno al otro saborearnos"
+train42,"Hoy celebramos nuestro segundo aniversario juntos, me siento muy feliz de compartir mi vida contigo"
+train43,"Es dificil poder vivir sin amor, pero sin agua es imposible."
+train44,"La mayor diferencia entre los pajaros y los humanos es que, cuando construyen, los primeros dejan el paisaje intacto."
+train45,"Se pueden cortar todas las flores, pero nunca se podra detener la primavera."
+train46,Las humanos producen tanta basura que la naturaleza es incapaz de digerir.
+train47,"Si conservamos el agua, conservamos la vida."
+train48,Cometer un crimen contra el medio ambiente es cometerlo contra nosotros.
+train49,"Con el agua lavamos lo sucio, pero el agua sucia no se puede lavar."
+train50,"Hay que comprar lo que se necesita, comprar cosas innecesarias, aunque baratas, ya son caras."
+train51,Enseñar a cuidar el medio ambiente es enseñar a valorar la vida.
+train52,El futuro no es desechable. Actua ahora.
+train53,"El planeta ha vivido muchos años sin humanos, los humanos no pueden vivir sin planeta."
+train54,"El planeta puede vivir sin nosotros, pero nosotros no podemos vivir sin planeta."
+train55,"Si amas tu vida, empieza por amar la del planeta. ¡Cuidalo!"
+train56,"Medio ambiente no es suficiente, lo necesitamos entero."
+train57,El hombre es el animal mas peligroso de la Tierra.
+train58,"Cuando se corte el ultimo arbol, cuando se contamine el ultimo rio, cuando se mate el ultimo animal, nos daremos cuenta que el dinero"
+train59,"Si cuidamos la tierra, la tierra nos cuidara."
+train60,Los arboles dan sombra hasta al leñador que los tala.
+train61,"Hay que cuidar la Tierra, no tenemos otra donde ir."
+train62,"No tenemos un planeta B, cuidemos bien a este."
+train63,"No arruinemos la Tierra, es dificil encontrar un buen planeta."
+train64,"Lo del hombre es increible, es capaz de hacer flores en el desierto y de secar los lagos."
+train65,Dañar la tierra es dañarnos a nosotros.
+train66,"A la Tierra le encantan nuestros pies, pero tiene miedo de nuestras manos."
+train67,"Si amas la Tierra, recicla y conserva."
+train68,"Si controlamos nuestra avaricia, la naturaleza nos lo provee todo gratis."
+train69,"Si sirves a la naturaleza, la naturaleza te va a servir. Confucio"
+train70,"En cada paseo por la naturaleza, uno recibe mucho mas de lo que anda buscando. John Muir"
+train71,"Ama la naturaleza, estudia la naturaleza, rodeate de naturaleza. Ella nunca te va a fallar. Frank Lloyd Wright"
+train72,Tienes que hacerte responsable de tus acciones y asi es como protegemos la Tierra. Julia Butterfly Hill
+train73,La naturaleza no hace nada incompleto ni nada en vano. Aristoteles.
+train74,"La naturaleza no es un lujo sino una necesidad del espiritu humano, tan vital como el agua o el buen pan"
+train75,"Mantengase cerca del corazon de la naturaleza… y alejense de vez en cuando, y escale una montaña o pase una semana en el bosque"
+train76,La naturaleza no hace nada incompleto ni nada en vano
+train77,Me siento mas confiado que nunca de que el poder para salvar el planeta descansa en el consumidor individual
+train78,"La Tierra proporciona lo suficiente para satisfacer las necesidades de cada hombre, pero no la codicia de cada hombre"
+train79,"La unica forma de avanzar si queremos mejorar la calidad del medio ambiente, es involucrar a todo el mundo"
+train80,"El medio ambiente es donde todos nos encontramos, donde todos tenemos un interes mutuo, es la cosa que todos compartimos"
+train81,La naturaleza no es un lugar para visitar. Es el hogar
+train82,"Necesitamos el tonico de la rusticidad… A la par que estamos empeñados en explorar y aprender todas las cosas, requerimos que todas"
+train83,La naturaleza ofrece un almuerzo gratis pero solo si controlamos nuestros apetitos
+train84,La fe en el planeta viviente es el tema mas importante al que se enfrenta la humanidad
+train85,Lo que les estamos haciendo a los bosques del mundo no es mas que un reflejo de lo que nos estamos haciendo a nosotros mismos
+train86,Mira profundamente en la naturaleza y luego entenderas todo mejor
+train87,"El sol es el unico reactor nuclear seguro, ya que esta a unos noventa y tres millones de millas de distancia de nosotros"
+train88,"Un verdadero conservacionista es una persona que sabe que el mundo no es una donacion de sus padres, sino un prestamo de sus hijos"
+train89,Prefiero tener rosas en mi mesa que diamantes en mi cuello
+train90,"La verdadera benevolencia, o compasion, se extiende a traves de toda existencia y se entiende con el sufrimiento de toda criatura"
+train91,Me parece que el mundo natural es la mayor fuente de emocion; la mayor fuente de belleza visual; la mayor fuente de interes
+train92,El hombre es un ser complejo: hace florecer el desierto y morir los lagos
+train93,La ultima prueba de la conciencia del hombre puede ser su disposicion a sacrificar algo hoy para las generaciones futuras cuyas palabras
+train94,"El futuro pertenece a aquellos que entienden que hacer mas con menos es compasivo, prospero, duradero, mas inteligente y mas"
+train95,El hombre sigue siendo el mayor milagro y el mayor problema en esta tierra
+train96,"Solo despues que el ultimo arbol sea cortado, solo despues que el ultimo rio haya sido envenenado, solo despues que el ultimo pez"
+train97,"Ni la sociedad, ni el hombre, ni ninguna otra cosa deben sobrepasar para ser buenos los limites establecidos por la naturaleza"
+train98,"Verde es el color principal del mundo, y a partir del cual surge su hermosura"
+train99,Si el Mundo no aprende en este momento a respetar al ecosistema ¿que esperanza tienen las generaciones del futuro?
+train100,Abusamos de la tierra porque la vemos como una mercancia que nos pertenece. Cuando pensemos en la tierra como una comunidad
+train101,"En la Tierra, el mejor amigo del hombre es el arbol. Cuando utilizamos el arbol con respeto y prudencia, puede ser para nosotros uno"
+train102,"Mientras los hombres sigan masacrando a sus hermanos los animales, reinara en la tierra la guerra y el sufrimiento y se mataran unos"
+train103,"Una nacion que destruye sus suelos se destruye a si misma. Los bosques son los pulmones de nuestra tierra, purifican el aire y dan nueva"
+train104,El mundo natural es la comunidad sagrada mas grande a la que pertenecemos. Dañar esta comunidad es disminuir nuestra propia humanidad
+train105,Convertid un arbol en leña y podra arder para vosotros; pero ya no producira flores ni frutos
+train106,"Cuando nos demos cuenta de que podemos hacer el esfuerzo para limpiar el medio ambiente, ¡se hara!"
+train107,El hombre es lo unico que hemos de temer en este planeta
+train108,"Cuando la calidad de vida disminuye para el medio ambiente, la calidad de vida disminuye para los humanos"
+train109,"El agua, el aire limpio y la limpieza son mis principales productos de farmacia"
+train110,"La crisis ecologica esta haciendo lo que ninguna otra crisis en la historia ha hecho jamas, desafiandonos a la realizacion de una nueva"
+train111,Debemos desarrollar un mayor sentido de responsabilidad hacia nuestro medio ambiente
+train112,"La batalla que hemos luchado y seguimos luchando por los bosques, es parte del eterno conflicto entre el bien y el mal"
+train113,Es horrible que tengamos que luchar contra nuestro propio gobierno para salvar el medio ambiente
+train114,Nuestra salud depende completamente de la vitalidad de nuestras especies compañeras en la tierra
+train115,Hay algo fundamentalmente incorrecto en tratar a la tierra como si fuese un negocio en liquidacion
+train116,"Desde la escala mas pequeña hasta la mas grande, la naturaleza esta repleta de maravillas de ingenieria que han inspirado por siglos"
+train117,"La crisis ambiental global es como decimos en Tennessee, real como la lluvia y no puedo soportar la idea de dejar a mis hijos con una"
+train118,"Apreciar lo que queda de la tierra y fomentar su renovacion, es nuestra esperanza de sobrevivir"
+train119,"La tierra que abusamos y los seres vivos que matamos, al final, se vengaran; porque al explotar su presencia estamos disminuyendo"
+train120,"Primero, fue necesario civilizar al hombre en su relacion con el hombre. Ahora, es necesario civilizar al hombre en su relacion con"
+train121,El uso de la energia solar no se ha abierto porque la industria petrolera no es dueña del sol
+train122,En todo paseo con la naturaleza uno recibe mucho mas de lo que busca
+train123,El universo no esta obligado a estar en perfecta armonia con la ambicion humana
+train124,"La Tierra tiene una piel y esa piel tiene enfermedades, una de sus enfermedades se llama hombre"
+train125,Durante 200 años hemos estado conquistando la naturaleza. Ahora lo estamos golpeando hasta la muerte
+train126,"Cuando uno tira de una sola cosa en la naturaleza, se encuentra que esta agarrada del resto del mundo"
+train127,Las advertencias sobre el calentamiento global han sido extremadamente claras durante mucho tiempo
+train128,El que nos encontremos tan a gusto en plena naturaleza proviene de que esta no tiene opinion sobre nosotros
+train129,"El calentamiento global ya no es una amenaza filosofica, ya no es una amenaza futura, ya no es una amenaza en absoluto"
+train130,"Manten tu amor hacia la naturaleza, porque es la verdadera forma de entender el arte"
+train131,"El calentamiento global amenaza nuestra salud, nuestra economia, nuestros recursos naturales y el futuro de nuestros niños"
+train132,Afirmar que amamos a Dios sin verle y al mismo tiempo ejercer crueldad hacia la mas diminuta criatura que se mueve por su vida
+train133,"Si sirves a la Naturaleza, ella te servira a ti"
+train134,"La naturaleza nunca hace nada superfluo, nada inutil, y sabe sacar multiples efectos de una sola causa"
+train135,El calentamiento global es demasiado serio para que el mundo ignore su peligro o se divida en facciones opuestas
+train136,Nosotros los humanos producimos la basura que la naturaleza no puede digerir
+train137,"Si supiera que el mundo se ha de acabar mañana, yo hoy aun plantaria un arbol"
+train138,La naturaleza mantendra siempre sus derechos y finalmente prevalecera sobre cualquier razonamiento abstracto
+train139,El calentamiento global es controvertido pero la controversia se centra principalmente en si la actividad humana lo esta impulsando
+train140,Un acto contra la naturaleza deberia ser juzgado tan severamente como uno contra la sociedad u otra persona
+train141,Una de las penas de una educacion ecologica es que uno vive solo en un mundo de cicatrices
+train142,La continuidad es el arte del conservacionismo: la ecologia sirve a ese corazon
+train143,"Como seres humanos, somos vulnerables a confundir lo inedito con lo improbable. En nuestra experiencia cotidiana"
+train144,"Es perturbador que muchas personas no parezcan observar lo que le esta sucediendo al medioambiente, lo que esta sucediendo en"
+train145,"El uso apropiado de la ciencia no es conquistar la naturaleza, sino vivir en ella"
+train146,La rana no se bebe el estanque en el que vive
+train147,El peligro claro y presente del cambio climatico significa que no podemos quemar nuestro camino hacia la prosperidad
+train148,"Como la musica y el arte, el amor hacia la naturaleza es un lenguaje comun que puede trascender fronteras politicas y sociales"
+train149,"En su mas amplio contexto ecologico, el desarrollo economico es el desarrollo de formas mas intensas de explotacion del medio ambiente"
+train150,El cambio a una economia de energia mas limpia no sucedera de la noche a la mañana y requerira decisiones dificiles en el camino
+train151,"Una de las grandes preguntas en el debate sobre el cambio climatico es, son los humanos mas listos que las ranas en una olla"
+train152,"Incluso cuando las centrales nucleares funcionan terriblemente mal, causan menos daños al planeta y a su gente que las estaciones de"
+train153,La conservacion es un estado de armonia entre hombre y tierra
+train154,"Si no cambiamos nuestros habitos negativos hacia el cambio climatico, podemos contar con interrupciones en todo el mundo en la"
+train155,En 10 años sera imposible viajar al Polo Norte con un equipo de perros. Habra demasiada agua
+train156,"Para el momento en el que vemos que el cambio climatico es realmente malo, tu capacidad para arreglarlo es extremadamente limitada"
+train157,Y luego el efecto de ese calor sobre las especies y ecosistemas se retrasa. Eso significa que incluso cuando te vuelvas virtuoso
+train158,"El cambio climatico esta ocurriendo, los humanos lo estan causando y creo que es quizas el problema medioambiental mas serio al que"
+train159,El cambio climatico esta destruyendo nuestro camino hacia la sostenibilidad. El nuestro es un mundo de retos inminentes y recursos 
+train160,El desarrollo sostenible ofrece la mejor oportunidad de ajustar nuestro curso
+train161,La crisis medioambiental es un problema global y sola la accion global lo resolvera
+train162,"Si una persona pasea por el bosque por placer todos los dias, corre el riesgo de que le tomen por un haragan"
+train163,"pero si dedica el dia entero a especular cortando arboles y dejando la tierra arida antes de tiempo, se le estima por ser un ciudadano"
+train164,Es necesario un cambio hacia estilos de vida menos orientados a los patrones de consumo perjudiciales para el medio ambiente
+train165,"Hacer todo lo que podamos para combatir el cambio climatico implica numerosos beneficios, desde la reduccion de la contaminacion"
+train166,"Dependemos de lo que la naturaleza nos regala, pero esos regalos deben ser recibidos con gratitud y no ser explotados o abusados"
+train167,El cambio climatico es un problema global. El planeta se esta calentando debido al creciente nivel de emisiones de gases de efecto
+train168,"Si esta tendencia continua, es probable que surjan consecuencias verdaderamente catastroficas debido al aumento del nivel del mar"
+train169,La riqueza no es necesariamente una cosa mala cuando se ha ganado de manera honesta y ni otras personas ni el medio ambiente
+train170,"Los planes para proteger el aire y el agua, lo salvaje y la vida silvestre, son de hecho planes para proteger al hombre"
+train171,El cambio climatico es real Los humanos y el carbono que ponemos en la atmosfera aumentan considerablemente el cambio climatico
+train172,"Y parece estar acelerando. Si la ciencia ha cometido algun error, la ciencia lo ha estado subestimando"
+train173,"El mejor momento para plantar un arbol es hace veinte años, el segundo mejor momento es ahora"
+train174,"No puedes pasar un solo dia en la tierra sin tener un impacto en el mundo. Lo que haces marca una diferencia, y tienes que decidir"
+train175,Hay un libro abierto siempre para todos los ojos: la naturaleza
+train176,El problema del cambio climatico es tan grande que no puede resolverse mediante respuestas individuales voluntarias
+train177,"Requiere una solucion para toda la economia, es decir, una que limite la ingesta total de carbono de la economia"
+train178,"Mientras podamos escuchar el murmullo de los rios, jamas sentiremos desesperacion"
+train179,Hoy estamos vertiendo 70 millones de toneladas de contaminacion que causa un calentamiento global en el medio ambiente
+train180,El medio ambiente deberia ponerse en la categoria de seguridad nacional. La defensa de nuestros recursos es tan importante como
+train181,"El agua y el aire, los dos fluidos esenciales de los que depende toda la vida, se han convertido en botes de basura globales"
+train182,La suprema realidad de nuestro tiempo es la vulnerabilidad de nuestro planeta
+train183,Los oceanos estan en problemas; las costas estan en problemas; nuestros recursos marinos estan en problemas
+train184,"La energia renovable tambien crea mas empleos que otras fuentes de energia, la mayoria de las cuales se crearan en el sector"
+train185,La naturaleza es inagotablemente sostenible si cuidamos de ella. Es nuestra responsabilidad universal pasar una tierra sana a las futuras
+train186,"Para transformar verdaderamente nuestra economia, proteger nuestra seguridad y salvar a nuestro planeta de los estragos del cambio"
+train187,"Una vez que se construye la infraestructura renovable, el combustible sera gratis para siempre. A diferencia de los combustibles"
+train188,"Es hora de una politica energetica sostenible que priorice a los consumidores, el medioambiente, la salud humana y la paz"
+train189,"Si mañana por la mañana pudieses hacer agua limpia para el mundo, habrias hecho lo mejor que puedes hacer para mejorar la salud"
+train190,La energia solar es rentable ahora mismo. Cuando consideras el costo para la salud de la contaminacion del aire
+train191,Necesitamos reducir nuestra dependencia del petroleo extranjero terminando los subsidios para las compañias petroleras
+train192,La relacion entre las fuentes de energia renovables y las comunidades que esperamos albergarlas debe ser apropiada y sostenible
+train193,"El futuro es energia verde, sostenibilidad, energia renovable"
+train194,"No es tan solo el reflejo de nosotros mismos, sino un lente de lo que nos podemos convertir"
+train195,"ellas sean misteriosas e inexplorables, que la tierra y el mar sean infinitamente salvajes, no inspeccionados ni sondeados por nosotros"
+train196,Es la mayor y mejor fuente de tantas cosas en la vida que hace que vivir merezca la pena
+train197,y fortaleciendo la energia limpia que genera empleos y fortalece nuestra seguridad
+train198,la energia solar es tan competitiva como cualquier otra fuente de energia
+train199,"basados en el carbono, el viento, el sol y la tierra proporcionan combustible que es libre, en cantidades que son efectivamente ilimitadas"
+train200,necesitamos convertir finalmente la energia limpia y renovable en un tipo rentable de energia
+train201,que sera pionero en el nuevo futuro energetico mediante inversiones que permitan a los fabricantes reacondicionar y adoptar nuevas
+train202,"y mañana volcaremos mas, y no hay una respuesta mundial efectiva. Hasta que comencemos a reducir drasticamente la contaminacion"
+train203,"a la menor disponibilidad de agua potable, a mas olas de calor e incendios"
+train204, y los costos asociados de la atencion medica hasta el fortalecimiento
+train205,"produccion de alimentos, lo que resulta en la migracion masiva, las crisis de refugiados y el aumento del conflicto sobre los recursos"
+train206,"si algo nunca ha sucedido antes, generalmente estamos seguros de que no va a suceder en el futuro"
+train207,Estamos enfrentando una crisis climatica global. Se esta profundizando. Estamos entrando en un periodo de consecuencias
+train208,"pues aquel que siembra dolor y la muerte no podra cosechar ni la alegria, ni la paz, ni el amor"
+train209," haya sido atrapado, solo entonces nos daremos cuenta que no nos podemos comer el dinero"
+train210,Nunca reconoceremos el valor del agua hasta que el pozo este seco
+train211,La empresa tesla tiene una predicion de los cosas como para el 2020
+train212,"La fecha de hoy es 5 de enero del 2015, pero la semana pasada fue 05-05-2020"
+train213,El unico modo de hacer un gran trabajo es amar lo que haces
+train214,Nunca pienso en las consecuencias de fallar un gran tiro… cuando se piensa en las consecuencias se esta pensando en un resultado negativo
+train215,El dinero no es la clave del exito; la libertad para poder crear lo es
+train216,"Cuanto mas duramente trabajo, mas suerte tengo"
+train217,"La inteligencia consiste no solo en el conocimiento, sino tambien en la destreza de aplicar los conocimientos en la practica"
+train218,El trabajo duro hace que desaparezcan las arrugas de la mente y el espiritu 
+train219,"Cuando algo es lo suficientemente importante, lo haces incluso si las probabilidades de que salga bien no te acompañan"
+train220,"Escoge un trabajo que te guste, y nunca tendras que trabajar ni un solo dia de tu vida"
+train221,"Un sueño no se hace realidad por arte de magia, necesita sudor, determinacion y trabajo duro"
+train222,Cuentamelo y me olvidare. enseñamelo y lo recordare. involucrame y lo aprendere
+train223,Las ideas pueden cambiar la vida. A veces a lo unico que tienes que abrir la puerta es a una buena idea
+train224,"Nadie se desembaraza de un habito o de un vicio tirandolo de una vez por la ventana; hay que sacarlo por la escalera, peldaño a peldaño"
+train225,"La perfeccion no es alcanzable, pero si perseguimos la perfeccion podemos conseguir la excelencia"
+train226,Solo aquellos que se arriesgan a ir demasiado lejos pueden descubrir lo lejos que pueden llegar
+train227,Aferrarse al rencor es como beber veneno y esperar que otra persona muera
+train228,"Si tienes un sueño y crees en el, corres el riesgo de que se convierta en realidad"
+train229,"Un optimista ve una oportunidad en toda calamidad, un pesimista ve una calamidad en toda oportunidad"
+train230,Un dia despertaras y descubriras que no tienes mas tiempo para hacer lo que soñabas
+train231,"Recordar que vas a morir, es la mejor manera que conozco para no pensar que tienes algo que perder. Ya estas desnudo. No hay ninguna razon"
+train232,Se lo suficientemente valiente para vivir de forma creativa. El lugar creativo donde nadie ha estado
+train233,"Existe al menos un rincon del universo que con toda seguridad puedes mejorar, y eres tu mismo"
+train234,"El verdadero buscador crece y aprende, y descubre que siempre es el principal responsable de lo que sucede"
+train235,La forma mas rapida de cambiar es convivir con personas que ya son como quieres ser
+train236,"Unas palabras amables, un libro calido y una sonrisa honesta pueden hacer milagros"
+train237,"No tienes poder sobre los acontecimientos exteriores –pero si sobre tu mente. Aprende esto, y encontraras tu fuerza"
+train238,"Da el primer paso con fe. No tienes que ver todas las escaleras, solo da el  primer paso"
+train239,rabajar duro por algo que no te importa se llama estres. Trabajar duro por algo que te importa de verdad se llama pasion
+train240,La mala noticia es que el tiempo vuela. La buena noticia es que tu eres el piloto
+train241,La unica manera de encontrar los limites de lo posible es ir mas alla de lo imposible
+train242,El exito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo
+train243,"Cualquier cosa que la mente del hombre puede concebir y creer, puede ser conseguida"
+train244,"Si supiera que el mundo se acaba mañana, yo, hoy todavia, plantaria un arbol"
+train245,"Pon tu corazon, mente y alma incluso en los actos mas pequeños. Ese es el secreto del exito"
+train246,"No podemos ayudar a todos, pero todo el mundo puede ayudar a alguien"
+train247,"Cada uno elige los labios que quiere besar, los ojos que quiere mirar, el corazon que quiere cuidar y a la persona que quiere a su lado por"
+train248,"Cualquier cosa que la mente del hombre puede concebir y creer, puede ser conseguida"
+train249,"Desde el primer momento que te vi, supe que te queria a mi lado para siempre"
+train250,"Cada mañana cuando despierto, tu eres la razon por la que sonrio, tu eres la razon por la que amo"
